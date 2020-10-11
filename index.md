@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lettera a Filemone
-description: v.20200927
+description: v.20201009
 ---
 
 Questa lettera è stata scritta da Paolo di Tarso a Filemone, un
